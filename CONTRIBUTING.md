@@ -33,21 +33,17 @@ After this, update the Table of Content section at the top of the file by adding
 After you find or create a specific category to place your recommendation, find an empty place and add your entry by typing:
 
 ```gfm
-##### [NAME-OF-THE-BLOG](link-to-the-blog)
-
-Commentary - [@your-github-username](link-to-your-github-profile)
+* [NAME-OF-THE-BLOG](link-to-the-blog) - Commentary - [@your-github-username](link-to-your-github-profile)
 ```
 
-Since there is _a lot_ of blogs available on the Internet, it is important to write down why do you think that this blog is awesome. Pull Requests without the commentary _will **not** be accepted_.
+Since there is _a lot_ of blogs available on the Internet, it is important to write down why do you think that this blog is awesome. Pull Requests without the commentary _will **not** be accepted_. Keep in mind that the submissions need to be sorted in the alphabetical order.
 
 ### Submission of your own blog
 
 If you are the author on the blog you're submitting, follow this:
 
 ```gfm
-##### [NAME-OF-THE-BLOG](link-to-the-blog)
-
-**AUTHOR**: Commentary - [@your-github-username](link-to-your-github-profile)
+* [NAME-OF-THE-BLOG](link-to-the-blog) (**author**) - Commentary - [@your-github-username](link-to-your-github-profile)
 ```
 
 Write down the comment on why do you think that your blog is awesome and why should the rest of us check it out.
@@ -57,3 +53,5 @@ Write down the comment on why do you think that your blog is awesome and why sho
 * Some blogs might fit in more than one (sub)category. If this is the case, feel free to include them in all of the (sub)categories. However, if the blog is not written in English, it can only go into the Non-English category.
 * If the authors post in more than one language (lets say English and Spanish as an example), then look at their post archive and see in which language do they post more. If it is English, put them into an appropriate category. If it is Spanish, put them into the Non-English section.
 * Blogs need to have more than ten posts already published at the time of their submission. Don't post new blogs.
+* You are free to add company blogs as long as the company has a good reputation in its (sub)category.
+* If you post a blog to the Non-English section, write down the description in the name of the language of the blog.
