@@ -1,19 +1,19 @@
 # awesome-blogs
 
-There's a lot of blogs being hosted all over the Internet. But how many of them are actually good? Share your recommendations with the community. This list is not limited to the field of technology.
+There's a lot of blogs being hosted all over the Internet. But how many of them are actually good? Share your recommendations with the community. This list is not limited to the field of technology, so feel free to add any blog and category you want to.
 
 To contribute to this list, if you want to contribute to this list, see the file called [CONTRIBUTING](https://github.com/aleksandar-todorovic/awesome-blogs/blob/master/CONTRIBUTING.md). For other awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
 
 ## Table of Content
 
 - [Technology](#technology)
-  - [Computer/Network Security](#computer-network-security)
+  - [Computer/Network Security](#computernetwork-security)
   - [Design](#design)
   - [Open Source Software](#open-source-software)
   - [Personal Blogs](#personal-blogs)
 - [Productivity](#productivity)
-- [Psychology](#psychology)
 - [Non-English](#non-english)
+  - [Bosnian/Serbian/Croatian](#bosnianserbiancroatian)
 - [License](#license)
 
 ## Technology
@@ -47,8 +47,6 @@ To contribute to this list, if you want to contribute to this list, see the file
 ## Productivity
 
 * [Zen Habits](http://zenhabits.net/) - This is probably the most popular blog that shares the secrets of productivity. Highly recommended to anyone who wants to boost their productivity. [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
-
-## Psychology
 
 ## Non-English
 
