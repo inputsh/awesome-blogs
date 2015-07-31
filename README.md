@@ -1,4 +1,4 @@
-# awesome-blogs
+# awesome-blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 There's a lot of blogs being hosted all over the Internet. But how many of them are actually good? Share your recommendations with the community. This list is not limited to the field of technology, so feel free to add any blog and category you want to.
 
