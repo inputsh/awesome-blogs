@@ -14,6 +14,7 @@ To contribute to this list, if you want to contribute to this list, see the file
 - [Productivity](#productivity)
 - [Non-English](#non-english)
   - [Bosnian/Serbian/Croatian](#bosnianserbiancroatian)
+  - [Hebrew](#Hebrew)
 - [License](#license)
 
 ## Technology
@@ -56,6 +57,10 @@ To contribute to this list, if you want to contribute to this list, see the file
 * [Ivan Blagojević](http://ivanblagojevic.com/) - Ivan vodi odličan blog na kojem piše o WordPress-u, SEO i CopyWriting-u, prepun korisnih tutorijala. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 * [LINog](http://linog.info/) - Blog na kojem možete pronaći dosta domaćih tutorijala o Linuksu i njegovom korišćenju. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 * [Kompjuteraš](http://kompjuteras.com/) - IT blog na kojem možete da naučite dosta o open source softveru i hakovanju. Moj najdraži blog sa našeg područja. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
+
+### Hebrew
+
+* [Stories of a Lifelong Student](http://lifelongstudent.net/) - A blog on computer science, open source and security. Written from a CS student perspective - [@nirgn975](https://github.com/nirgn975)
 
 ## License
 
