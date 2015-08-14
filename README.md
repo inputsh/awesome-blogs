@@ -61,6 +61,7 @@ To contribute to this list, if you want to contribute to this list, see the file
 ### Hebrew
 
 * [Stories of a Lifelong Student](http://lifelongstudent.net/) - A blog on computer science, open source and security. Written from a CS student perspective - [@nirgn975](https://github.com/nirgn975)
+* [Inaccurate](http://www.gadial.net/) - One of the most interesting blog in hebrew on math (and related things).
 
 ## License
 
