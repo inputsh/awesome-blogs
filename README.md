@@ -44,6 +44,7 @@ To contribute to this list, if you want to contribute to this list, see the file
 * [Aleksandar Todorović - Personal Blog](https://r3bl.github.io) (**author**) - I'm a self-proclaimned Open Source Advocate and I post (mostly) about open source software. I have a huge passion towards artificial intelligence, hacking, books, productivity and education. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 * [Schneier on Security](https://www.schneier.com/) - One of the leading security researchers and an author of a couple of books loves to share his security-related stories and to give his opinion on various controversies happening in the field of security. Oh, and he also likes squids! - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 * [Wait But Why](http://waitbutwhy.com/) - An excellent blog run by two people who write lengthy articles about the topics that they thouroughly researched. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
+* [Scott Hanselman](http://www.hanselman.com/blog/) - Informative blog from Scott Hanselman, he works in Open Source on ASP.NET and the Azure Cloud for Microsoft. - [@dreanor](https://github.com/dreanor)
 
 ## Productivity
 
