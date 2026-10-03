@@ -11,6 +11,7 @@ To contribute to this list, if you want to contribute to this list, see the file
   - [Design](#design)
   - [Open Source Software](#open-source-software)
   - [Personal Blogs](#personal-blogs)
+  - [Pets & Animals](#pets--animals)
 - [Productivity](#productivity)
 - [Non-English](#non-english)
   - [Bosnian/Serbian/Croatian](#bosnianserbiancroatian)
@@ -48,6 +49,10 @@ To contribute to this list, if you want to contribute to this list, see the file
 ## Productivity
 
 * [Zen Habits](http://zenhabits.net/) - This is probably the most popular blog that shares the secrets of productivity. Highly recommended to anyone who wants to boost their productivity. [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
+
+## Pets & Animals
+
+* [I Love Pariah Dogs](https://ilovepariahdogs.com) (**author**) - A field guide to India's native dog, the Indian Pariah Dog (INDog/desi dog) — breed history, temperament, health and adoption stories about an ancient landrace that's often mistaken for just a street dog. - [@ElementVIIIInteractive](https://github.com/ElementVIIIInteractive)
 
 ## Non-English
 
